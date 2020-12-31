@@ -3,7 +3,7 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "1446186450:AAGawtXFinHbCxkcqDq1wB62LEsh3TvN1qA"
+BOT_TOKEN = "1477329012:AAFS4QucSOJb3vp88H5om5nRnhkIb8Ju0OM"
 GDRIVE_FOLDER_ID = "1uM8JteYucHaSEXg9NGc9DfjhglAoGT-e"
 # Default folder id.
 OWNER_ID = 1030989359 
@@ -12,7 +12,7 @@ AUTHORISED_USERS = [1281008527]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
 INDEX_URL = "https://raka.bhumikpatel18.workers.dev/0:"
 IS_TEAM_DRIVE = True
-USE_SERVICE_ACCOUNTS = True
+USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
 
 # dont edit below this >
