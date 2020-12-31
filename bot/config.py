@@ -10,7 +10,7 @@ OWNER_ID = 1030989359
 # Example: OWNER_ID = 619418070
 AUTHORISED_USERS = [1281008527]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://raka.bhumikpatel18.workers.dev/0:"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = True
 # --------------------------------------
